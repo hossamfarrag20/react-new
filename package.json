@@ -2,7 +2,7 @@
   "name": "myfirstprojext",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/hossamfarrag20/react-new.git",
+  "homepage": "https://hossamfarrag20.github.io/react-new/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
